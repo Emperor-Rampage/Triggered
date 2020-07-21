@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: dfc3f9c60200deb46af86adfa4cb2aeb
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -5725255832280048666
+    second: pCylinder5|ALL_Animation|Take 001|BaseLayer
+  - first:
+      74: 6487130223296726665
+    second: pCylinder5|Armature|Take 001|BaseLayer
+  - first:
+      74: 6006911348640977979
+    second: pCylinder5|Body_CTRL|Take 001|BaseLayer
+  - first:
+      74: 9124635276842730744
+    second: pCylinder5|grp_ctrl_ballLift_Left|Take 001|BaseLayer
+  - first:
+      74: 5838793635120202063
+    second: pCylinder5|grp_ctrl_ballLift_Right|Take 001|BaseLayer
+  - first:
+      74: 772630841690791696
+    second: pCylinder5|grp_ctrl_toeLift_Left|Take 001|BaseLayer
+  - first:
+      74: -6145745819050387357
+    second: pCylinder5|grp_ctrl_toeLift_Right|Take 001|BaseLayer
+  - first:
+      74: -165041868329236983
+    second: pCylinder5|grp_ctrl_toeWiggle_Left|Take 001|BaseLayer
+  - first:
+      74: 6739154449423653763
+    second: pCylinder5|grp_ctrl_toeWiggle_Right|Take 001|BaseLayer
+  - first:
+      74: -85528835571327185
+    second: pCylinder5|Head_CTRL|Take 001|BaseLayer
+  - first:
+      74: -3592661101233811087
+    second: pCylinder5|L_CTR_ik|Take 001|BaseLayer
+  - first:
+      74: -6747917832265618479
+    second: pCylinder5|L_CTRL_Arm|Take 001|BaseLayer
+  - first:
+      74: -3270986312301288838
+    second: pCylinder5|L_Hand_ik|Take 001|BaseLayer
+  - first:
+      74: 7193108347132781540
+    second: pCylinder5|LP_UV_4_Duble:pCube1|Take 001|BaseLayer
+  - first:
+      74: 2443421361544754915
+    second: pCylinder5|LP_UV_4_Duble:pCube225|Take 001|BaseLayer
+  - first:
+      74: 5692539344074371152
+    second: pCylinder5|LP_UV_4_Duble:pCube226|Take 001|BaseLayer
+  - first:
+      74: 2791219073516690012
+    second: pCylinder5|LP_UV_4_Duble:pCube377|Take 001|BaseLayer
+  - first:
+      74: 4855293235499783284
+    second: pCylinder5|pCylinder5|Take 001|BaseLayer
+  - first:
+      74: -7824946170251870865
+    second: pCylinder5|R_CTR_ik|Take 001|BaseLayer
+  - first:
+      74: 5428919971288892526
+    second: pCylinder5|R_CTRL_Arm|Take 001|BaseLayer
+  - first:
+      74: -8974925522447257397
+    second: pCylinder5|R_Hand_ik|Take 001|BaseLayer
+  - first:
+      74: -2956900183992848268
+    second: pCylinder5|Taz_CTRL|Take 001|BaseLayer
+  - first:
+      74: 9200423932196213947
+    second: Armature|ALL_Animation|Take 001|BaseLayer
+  - first:
+      74: 5862543501114407046
+    second: Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -8801698035220753283
+    second: Armature|Body_CTRL|Take 001|BaseLayer
+  - first:
+      74: 1210312325812762233
+    second: Armature|grp_ctrl_ballLift_Left|Take 001|BaseLayer
+  - first:
+      74: 9013049483230865469
+    second: Armature|grp_ctrl_ballLift_Right|Take 001|BaseLayer
+  - first:
+      74: 5033386488936668379
+    second: Armature|grp_ctrl_toeLift_Left|Take 001|BaseLayer
+  - first:
+      74: -3171241013844428293
+    second: Armature|grp_ctrl_toeLift_Right|Take 001|BaseLayer
+  - first:
+      74: 3960806767029583663
+    second: Armature|grp_ctrl_toeWiggle_Left|Take 001|BaseLayer
+  - first:
+      74: -4950132438986098957
+    second: Armature|grp_ctrl_toeWiggle_Right|Take 001|BaseLayer
+  - first:
+      74: -7031173034964185343
+    second: Armature|Head_CTRL|Take 001|BaseLayer
+  - first:
+      74: 3649095633559214297
+    second: Armature|L_CTR_ik|Take 001|BaseLayer
+  - first:
+      74: 8632364907999587042
+    second: Armature|L_CTRL_Arm|Take 001|BaseLayer
+  - first:
+      74: -3029869593834239171
+    second: Armature|L_Hand_ik|Take 001|BaseLayer
+  - first:
+      74: -7680589817541154692
+    second: Armature|LP_UV_4_Duble:pCube1|Take 001|BaseLayer
+  - first:
+      74: 3161492806171183880
+    second: Armature|LP_UV_4_Duble:pCube225|Take 001|BaseLayer
+  - first:
+      74: 5997648668004177852
+    second: Armature|LP_UV_4_Duble:pCube226|Take 001|BaseLayer
+  - first:
+      74: -7510693581265850502
+    second: Armature|LP_UV_4_Duble:pCube377|Take 001|BaseLayer
+  - first:
+      74: 7747852361247678507
+    second: Armature|pCylinder5|Take 001|BaseLayer
+  - first:
+      74: -3637336784046379691
+    second: Armature|R_CTR_ik|Take 001|BaseLayer
+  - first:
+      74: -6356131167902061289
+    second: Armature|R_CTRL_Arm|Take 001|BaseLayer
+  - first:
+      74: 2643451432800810616
+    second: Armature|R_Hand_ik|Take 001|BaseLayer
+  - first:
+      74: -6837520526156985538
+    second: Armature|Taz_CTRL|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 7873fd60dd052fa49a47f10e550b1a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: a69b385ba6d9b4f42b4c95156ae3ff03, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
